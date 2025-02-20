@@ -1,0 +1,38 @@
+p {
+    color: blue;
+  }
+  
+  h1 {
+    font-size: 36px;
+  }
+  
+  img {
+    margin: 20px;
+  }
+  
+  div {
+    background-color: yellow;
+    border-radius: 10px;
+  }
+  
+  .italic-text {
+    font-style: italic;
+  }
+  
+  .center-text {
+    text-align: center;
+  }
+  
+  .left-text {
+    text-align: left;
+  }
+  
+  .right-text {
+    text-align: right;
+  }
+  
+  button {
+    border: 2px solid red;
+    padding: 10px;
+    background-color: white;
+  }
